@@ -1,0 +1,18 @@
+.info {
+    padding: 1rem;
+    position: relative;
+    border: solid 1.5px gray;
+    flex-grow: 2;
+  }
+  .title {
+    position: absolute;
+    top: -10px;
+    background: white;
+  }
+  .info .name {
+    margin-bottom: 1rem;
+  }
+  .info span,
+  .address span {
+    text-decoration: underline;
+  }

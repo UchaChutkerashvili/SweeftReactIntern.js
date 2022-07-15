@@ -1,0 +1,15 @@
+.address {
+    padding: 1rem;
+    position: relative;
+    border: solid 1.5px gray;
+}
+
+.address h3 {
+    margin-bottom: 1rem;
+}
+
+.title {
+    position: absolute;
+    top: -10px;
+    background: white;
+}

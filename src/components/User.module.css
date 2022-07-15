@@ -1,0 +1,8 @@
+.user {
+    display: inline-block;
+    border: solid 1px gray;
+  }
+  .user h3,
+  .user p {
+    margin: 0.3rem;
+  }

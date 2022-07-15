@@ -1,0 +1,12 @@
+.history {
+    margin: 4rem 0;
+}
+
+.history p {
+    display: inline-block;
+
+}
+
+.history span {
+    margin: 0 0.5rem;
+}
